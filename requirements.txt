@@ -1,0 +1,14 @@
+faiss-cpu==1.7.4
+google-ai-generativelanguage==0.4.0
+google-generativeai==0.3.2
+huggingface-hub==0.20.3
+InstructorEmbedding==1.0.1
+langchain==0.1.6
+langchain-community==0.0.19
+langchain-google-genai==0.0.8
+langchain-openai==0.0.5
+openai==1.12.0
+pypdf==4.0.1
+sentence-transformers==2.3.1
+streamlit==1.31.0
+torch==2.2.0
